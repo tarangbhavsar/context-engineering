@@ -10,6 +10,8 @@ This document explains the architectural design of VS Code Copilot's customizati
 
 ![VS Code Copilot Customization Architecture](./images/architecture_overview.png)
 
+![Prompt generation stack](./images/prompt_generation_stack.png)
+
 ```mermaid
 graph TB
     subgraph "User Layer"
