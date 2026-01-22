@@ -8,6 +8,8 @@ This document explains the architectural design of VS Code Copilot's customizati
 
 ## Architecture Overview
 
+![VS Code Copilot Customization Architecture](./images/architecture_overview.png)
+
 ```mermaid
 graph TB
     subgraph "User Layer"
