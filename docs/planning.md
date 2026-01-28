@@ -58,6 +58,7 @@ Create comprehensive documentation and sample configurations for VS Code Copilot
 | `docs/tech_stack.md` | ✅ Complete | Technology comparison |
 | `docs/planning.md` | ✅ Complete | This document |
 | `docs/walkthrough.md` | 🔄 In Progress | Developer guide |
+| `docs/openspec-integration.md` | ✅ Complete | OpenSpec SDD integration guide |
 
 ---
 
