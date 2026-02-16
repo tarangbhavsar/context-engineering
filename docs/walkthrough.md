@@ -220,6 +220,7 @@ Use #tool:codebase to search for patterns
 - [Main Guide](Prompt.md) - Complete customization reference
 - [Architecture](architecture.md) - System design overview
 - [Tech Stack](tech_stack.md) - Technology comparisons
+- [OpenSpec vs Speckit](openspec_vs_speckit.md) - SDD tools comparison analysis
 
 ---
 

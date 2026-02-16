@@ -506,7 +506,8 @@ When tools are specified in multiple places, priority is:
 - [Awesome Copilot Repository](https://github.com/github/awesome-copilot)
 - [Agent Skills Standard](https://agentskills.io)
 - [MCP Specification](https://modelcontextprotocol.io)
+- [OpenSpec vs Speckit Comparison](openspec_vs_speckit.md) - SDD tools analysis
 
 ---
 
-*Last Updated: January 2026*
+*Last Updated: February 2026*

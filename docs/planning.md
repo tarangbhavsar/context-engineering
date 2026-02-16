@@ -60,6 +60,7 @@ Create comprehensive documentation and sample configurations for VS Code Copilot
 | `docs/walkthrough.md` | 🔄 In Progress | Developer guide |
 | `docs/openspec-integration.md` | ✅ Complete | OpenSpec SDD integration guide |
 | `docs/openspec-v0.20-guide.md` | ✅ Complete | OpenSpec v0.20.0 complete guide |
+| `docs/openspec_vs_speckit.md` | ✅ Complete | OpenSpec vs Speckit comparison analysis |
 
 ---
 
@@ -161,4 +162,4 @@ legible and organized like a professional brainstorming session.
 
 ---
 
-*Last Updated: January 2026*
+*Last Updated: February 2026*
