@@ -506,6 +506,7 @@ When tools are specified in multiple places, priority is:
 - [Awesome Copilot Repository](https://github.com/github/awesome-copilot)
 - [Agent Skills Standard](https://agentskills.io)
 - [MCP Specification](https://modelcontextprotocol.io)
+- [Firm-Level Copilot Guidelines](firm-level-copilot-guidelines.md) - Enterprise governance strategy
 - [OpenSpec vs Speckit Comparison](openspec_vs_speckit.md) - SDD tools analysis
 
 ---

@@ -61,6 +61,7 @@ Create comprehensive documentation and sample configurations for VS Code Copilot
 | `docs/openspec-integration.md` | ✅ Complete | OpenSpec SDD integration guide |
 | `docs/openspec-v0.20-guide.md` | ✅ Complete | OpenSpec v0.20.0 complete guide |
 | `docs/openspec_vs_speckit.md` | ✅ Complete | OpenSpec vs Speckit comparison analysis |
+| `docs/firm-level-copilot-guidelines.md` | ✅ Complete | Firm-level vs project-level guidelines strategy |
 
 ---
 
@@ -121,7 +122,29 @@ legible and organized like a professional brainstorming session.
 
 ---
 
-## Phase 5: Finalization
+## Phase 5: Firm-Level Guidelines Strategy ✅
+
+### Completed Tasks
+
+- [x] Brainstorm firm-level vs project-level customization hierarchy
+- [x] Research distribution strategies (NPM, Git Submodule, Shared Folder, Hybrid)
+- [x] Document VS Code settings for multi-source loading
+- [x] Define override mechanism and priority rules
+- [x] Create maintainability workflow (versioning, updates, notifications)
+- [x] Provide sample firm-level instructions, agents, and prompts
+- [x] Define phased rollout plan
+- [x] Generate architecture diagram
+
+### Key Deliverables
+
+| Document | Status | Description |
+|----------|--------|-------------|
+| `firm-level-copilot-guidelines.md` | ✅ Complete | Complete brainstorming and strategy document |
+| `firm_level_guidelines_architecture.png` | ✅ Complete | Visual architecture overview |
+
+---
+
+## Phase 6: Finalization
 
 - [ ] Review all documentation for consistency
 - [ ] Validate sample configurations
@@ -139,6 +162,7 @@ legible and organized like a professional brainstorming session.
 | Core Docs | Main guides creation | ✅ Complete |
 | Samples | Spring Boot & React configs | 🔄 In Progress |
 | Visuals | Handwritten diagrams | 📝 Pending |
+| Firm Guidelines | Firm-level strategy & governance | ✅ Complete |
 | Review | Final validation | 📝 Pending |
 
 ---
