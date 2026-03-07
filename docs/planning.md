@@ -59,7 +59,8 @@ Create comprehensive documentation and sample configurations for VS Code Copilot
 | `docs/planning.md` | ✅ Complete | This document |
 | `docs/walkthrough.md` | 🔄 In Progress | Developer guide |
 | `docs/openspec-integration.md` | ✅ Complete | OpenSpec SDD integration guide |
-| `docs/openspec-v0.20-guide.md` | ✅ Complete | OpenSpec v0.20.0 complete guide |
+| `docs/openspec-v0.20-guide.md` | ⚠️ Legacy | OpenSpec v0.20.0 guide (deprecated) |
+| `docs/openspec-v1.2-guide.md` | ✅ Complete | OpenSpec v1.2.0 complete guide |
 | `docs/openspec_vs_speckit.md` | ✅ Complete | OpenSpec vs Speckit comparison analysis |
 | `docs/firm-level-copilot-guidelines.md` | ✅ Complete | Firm-level vs project-level guidelines strategy |
 

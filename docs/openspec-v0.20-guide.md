@@ -1,5 +1,10 @@
 # OpenSpec v0.20.0 - Complete Guide
 
+> [!CAUTION]
+> **This guide is outdated.** OpenSpec is now at **v1.2.0** with the major OPSX rewrite (v1.0), profiles, propose workflow, and support for 23+ AI tools.
+>
+> 👉 **See the updated guide: [OpenSpec v1.2.0 Guide](./openspec-v1.2-guide.md)**
+
 > **Spec-Driven Development for VS Code Copilot**
 
 This guide covers OpenSpec version 0.20.0, including project structure, workspace maintenance, and integration with VS Code Copilot.
@@ -40,6 +45,7 @@ This release adds validation tooling and fixes several workflow issues.
 ```
 
 Catches drift between what you planned and what got built. This command:
+
 - Compares your implementation against the spec artifacts
 - Identifies incomplete or missing tasks
 - Validates that delta specs match implemented functionality
@@ -219,6 +225,7 @@ rules:
 ### Sample Artifact Files
 
 #### proposal.md
+
 ```markdown
 # Proposal: Add User Preferences
 
@@ -244,6 +251,7 @@ Revert to default preferences if localStorage unavailable.
 ```
 
 #### specs/ui/spec.md (Delta)
+
 ```markdown
 # Delta for UI
 
@@ -273,6 +281,7 @@ The system SHALL support multiple themes based on user preference.
 ```
 
 #### tasks.md
+
 ```markdown
 # Tasks
 
@@ -339,6 +348,7 @@ The system SHALL support multiple themes based on user preference.
 ### Managing Active Changes
 
 #### List All Changes
+
 ```bash
 # View all active changes
 openspec list
@@ -350,6 +360,7 @@ openspec list
 ```
 
 #### View Change Details
+
 ```bash
 # Interactive view
 openspec view
@@ -372,6 +383,7 @@ openspec archive update-ci-config --skip-specs
 ```
 
 #### Bulk Archive (v0.21.0+)
+
 ```bash
 # Archive multiple completed changes
 /opsx:bulk-archive
